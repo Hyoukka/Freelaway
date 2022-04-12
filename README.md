@@ -23,7 +23,7 @@
   <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-pré-requisitos">Pré requisitos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-começando">Como usar</a> &#xa0; | &#xa0;
   <a href="https://github.com/Hyoukka" target="_blank">Autor</a>
 </p>
 
@@ -51,7 +51,7 @@ A proposta é criar um sistema de ofertas de trabalhos para contratar profission
 - [Python](https://www.python.org/)
 - [Django](https://nodejs.org/en/)
 - HTML
--CSS
+- CSS
 - [Bootstrap](https://getbootstrap.com/)
 
 ## ✅ Pré-requisitos
