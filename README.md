@@ -45,12 +45,12 @@
 </p>
 
 <p align="center">
-  <img alt="cadastrar" src="https://cdn.discordapp.com/attachments/913262514664513636/963430769487933560/Cadastro.png" width=250>
-  <img alt="Login" src="https://cdn.discordapp.com/attachments/913262514664513636/963430908306804756/Login.png" width=250>
-  <img alt="Recuprerar senha" src="https://cdn.discordapp.com/attachments/913262514664513636/963430980268486797/Recuperacao_de_senha.png" width=250>
-  <img alt="Encontrar job" src="https://cdn.discordapp.com/attachments/913262514664513636/963431036090482758/Encontrar_jobs.png" width=250>
-  <img alt="Job" src="https://cdn.discordapp.com/attachments/913262514664513636/963431087374237736/Modal_job.png" width=250>
-  <img alt="Perfil" src="https://cdn.discordapp.com/attachments/913262514664513636/963431133704495155/Perfil.png" width=250>
+  <img alt="Cadastrar" src="png/Cadastro.png" width=250>
+  <img alt="Login" src="png/Login.png" width=250>
+  <img alt="Recuprerar senha" src="png/Recuperacao de senha.png" width=250>
+  <img alt="Encontrar job" src="png/Encontrar jobs.png" width=250>
+  <img alt="Job" src="png/Modal job.png" width=250>
+  <img alt="Perfil" src="png/Perfil.png" width=250>
 </p>
 
 ## 🎯 Sobre
