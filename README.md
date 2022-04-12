@@ -67,8 +67,8 @@ A proposta é criar um sistema de ofertas de trabalhos para contratar profission
 ## 🚀 Tecnologias
 - [Python](https://www.python.org/)
 - [Django](https://nodejs.org/en/)
-- [HTML]
-- [CSS]
+- HTML
+-CSS
 - [Bootstrap](https://getbootstrap.com/)
 
 ## ✅ Pré-requisitos
