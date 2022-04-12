@@ -76,12 +76,12 @@ $ cd Freelaway
   # Linux
     $ python3 -m venv venv
   # Windows
-    $ python -m venv venv
+    $ python -m virtualenv virtualenv
 #Ativar
   # Linux
     $ source venv/bin/activate
   # Windows
-    $ venv/Scripts/Activate
+    $ virtualenv/Scripts/Activate
 # Caso algum comando retorne um erro de permissão execute o código e tente novamente:
   $ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 ```
