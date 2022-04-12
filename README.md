@@ -31,8 +31,8 @@
   <img alt="Cadastrar" src="png/Cadastro.png" width=250>
   <img alt="Login" src="png/Login.png" width=250>
   <img alt="Recuprerar senha" src="png/Recuperacao de senha.png" width=250>
-  <img alt="Encontrar job" src="png/Encontrar jobs.png" width=250>
-  <img alt="Job" src="png/Modal job.png" width=250>
+  <img alt="Encontrar job" src="png/Encontrar_jobs.png" width=250>
+  <img alt="Job" src="png/Modal_job.png" width=250>
   <img alt="Perfil" src="png/Perfil.png" width=250>
 </p>
 
