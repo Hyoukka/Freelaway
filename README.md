@@ -91,9 +91,9 @@ $ cd Freelaway
 ```bash
 # Instale as dependências
 # Linux
-$ pip3 install -r requirements.txt
+$ pip3 install -r requerimentos.txt
 # Windows
-$ pip install -r requirements.txt
+$ pip install -r requerimentos.txt
 ```
 
 4 - Faça as migrações.
