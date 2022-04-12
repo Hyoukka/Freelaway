@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./public/logo.png" alt="Freelaway" />
+  <img src="./png/Logo.png" alt="Freelaway" />
 
 <!-- &#xa0; -->
 
