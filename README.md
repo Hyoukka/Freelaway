@@ -41,12 +41,12 @@
   <a href="#white_check_mark-pré-requisitos">Pré requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
   <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
-  <a href="https://github.com/navegantes" target="_blank">Autor</a>
+  <a href="https://github.com/Hyoukka" target="_blank">Autor</a>
 </p>
 
 <p align="center">
+  <img alt="cadastrar" src="https://cdn.discordapp.com/attachments/913262514664513636/963428536373358652/Cadastro.png" width=250>
   <img alt="Login" src="public/login.png" width=250>
-  <img alt="cadastrar" src="public/cadastrar.png" width=250>
   <img alt="Recuprerar senha" src="public/recuperar_senha.png" width=250>
   <img alt="Encontrar job" src="public/encontrar_jobs.png" width=250>
   <img alt="Job" src="public/job.png" width=250>
@@ -81,9 +81,9 @@ Antes de começar 🏁, você precisa ter o [Python](https://www.python.org/down
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/navegantes/freelaway
+$ git clone https://github.com/Hyoukka/Freelaway
 # Entre na pasta
-$ cd freelaway
+$ cd Freelaway
 ```
 
 2 - Segundo inicie um ambiente virtual
